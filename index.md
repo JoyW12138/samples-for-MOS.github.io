@@ -7,7 +7,7 @@ title: {{ site.name }}
 # Table of contents
 
 * [打分规则](#rules)
-* [Groups](#groups)
+* [Group](#groups)
 
 ---
 
@@ -21,7 +21,7 @@ title: {{ site.name }}
 
 
 <a name="groups"></a>
-# Groups
+# Group
 <table>
   <tbody>
     <tr>
@@ -37,7 +37,6 @@ title: {{ site.name }}
   </tbody>
   <colgroup>
   </colgroup>
-</table>
 
 <table>
   <tbody>
@@ -54,14 +53,13 @@ title: {{ site.name }}
   </tbody>
   <colgroup>
   </colgroup>
-</table>
 
 <table>
   <tbody>
     <tr>
     </tr>
     <tr>
-      <td>Groups3</td>
+      <td>Group3</td>
       <td> audio1 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group3/2_generated_MelGAN.wav" controls></td>
       <td> audio2 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group3/2_generated_Noskip-32.wav" controls></td>
       <td> audio3 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group3/2_generated_Skipv2-32-residual-16842-2s.wav" controls></td>
@@ -77,7 +75,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups4</td>
+      <td>Group4</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_13.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_13.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_13.wav" controls></td>
@@ -93,7 +91,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups5</td>
+      <td>Group5</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_16.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_16.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_16.wav" controls></td>
@@ -109,7 +107,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups6</td>
+      <td>Group6</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_1.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_1.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_1.wav" controls></td>
@@ -125,7 +123,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups7</td>
+      <td>Group7</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_1/sample_1.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_1/sample_1.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_1/sample_1.wav" controls></td>
@@ -141,7 +139,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups8</td>
+      <td>Group8</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_13/sample_24.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_13/sample_24.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_13/sample_24.wav" controls></td>
@@ -157,7 +155,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups9</td>
+      <td>Group9</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_41.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_41.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_41.wav" controls></td>
@@ -173,7 +171,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups10</td>
+      <td>Group10</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_20.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_20.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_20.wav" controls></td>
@@ -189,7 +187,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups11</td>
+      <td>Group11</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_22.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_22.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_22.wav" controls></td>
@@ -205,7 +203,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups12</td>
+      <td>Group12</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_12.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_12.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_12.wav" controls></td>
@@ -221,7 +219,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups13</td>
+      <td>Group13</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_1/sample_15.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_1/sample_15.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_1/sample_15.wav" controls></td>
@@ -237,7 +235,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups14</td>
+      <td>Group14</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_13/sample_27.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_13/sample_27.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_13/sample_27.wav" controls></td>
@@ -253,7 +251,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups15</td>
+      <td>Group15</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_5.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_5.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_5.wav" controls></td>
@@ -269,7 +267,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups16</td>
+      <td>Group16</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_21.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_21.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_21.wav" controls></td>
@@ -285,7 +283,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups17</td>
+      <td>Group17</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_3.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_3.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_3.wav" controls></td>
@@ -301,7 +299,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups18</td>
+      <td>Group18</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_22.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_22.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_22.wav" controls></td>
@@ -316,7 +314,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups19</td>
+      <td>Group19</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_1/sample_22.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_1/sample_22.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_1/sample_22.wav" controls></td>
@@ -332,7 +330,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups20</td>
+      <td>Group20</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_13/sample_35.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_13/sample_35.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_13/sample_35.wav" controls></td>
@@ -348,7 +346,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups21</td>
+      <td>Group21</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_51.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_51.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_51.wav" controls></td>
@@ -364,7 +362,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups22</td>
+      <td>Group22</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_24.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_24.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_24.wav" controls></td>
@@ -380,7 +378,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups23</td>
+      <td>Group23</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_31.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_31.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_31.wav" controls></td>
@@ -396,7 +394,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups24</td>
+      <td>Group24</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_26.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_26.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_26.wav" controls></td>
@@ -412,7 +410,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups25</td>
+      <td>Group25</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_1/sample_23.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_1/sample_23.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_1/sample_23.wav" controls></td>
@@ -428,7 +426,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups26</td>
+      <td>Group26</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_13/sample_36.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_13/sample_36.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_13/sample_36.wav" controls></td>
@@ -444,7 +442,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups27</td>
+      <td>Group27</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_53.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_53.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_53.wav" controls></td>
@@ -460,7 +458,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups28</td>
+      <td>Group28</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_28.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_28.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_28.wav" controls></td>
@@ -476,7 +474,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups29</td>
+      <td>Group29</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_32.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_32.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_32.wav" controls></td>
@@ -492,7 +490,7 @@ title: {{ site.name }}
     <tr>
     </tr>
     <tr>
-      <td>Groups30</td>
+      <td>Group30</td>
       <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_27.wav" controls></td>
       <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_27.wav" controls></td>
       <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_27.wav" controls></td>
