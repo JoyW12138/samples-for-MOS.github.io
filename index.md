@@ -1,4 +1,3 @@
-![image](https://github.com/JoyW12138/samples-for-MOS.github.io/assets/25631125/4cfe9cf8-7984-404a-a23c-0b3864385089)---
 layout: default
 title: {{ site.name }}
 ---
@@ -20,947 +19,841 @@ title: {{ site.name }}
 3分	语音不太清晰，存在明显的不自然或杂音
 4分	语音基本清晰，略有不自然或轻微杂音
 5分	语音清晰，自然流畅，无明显杂音和失真
-![image](https://github.com/JoyW12138/samples-for-MOS.github.io/assets/25631125/739d9f4e-245e-4558-b66d-16db39e2aac9)
 
 
 <!-- <a name="model"></a>
 # Model Description -->
 
-<a name="results"></a>
-# Results
-
-<a name="spectrogram-inversion"></a>
-## Spectrogram Inversion on Unseen Speakers
-Original
-<audio controls>
-  <source src="assets/inversion/original/0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/original/1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/original/2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/original/3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/original/4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/original/5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/original/6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/original/7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-Reconstructed
-<audio controls>
-  <source src="assets/inversion/reconstructed/0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/reconstructed/1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/reconstructed/2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/reconstructed/3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/reconstructed/4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/reconstructed/5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/reconstructed/6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/inversion/reconstructed/7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-
-<a name="tts-examples"></a>
-## End-to-end text-to-speech examples
-<audio controls>
-  <source src="assets/tts_samples/cheryl/0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/cheryl/1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/cheryl/2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/cheryl/3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/cheryl/4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<br>
-
-<audio controls>
-  <source src="assets/tts_samples/jb/0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/jb/1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/jb/2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/jb/3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/jb/4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<br>
-
-<audio controls>
-  <source src="assets/tts_samples/linda/0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/linda/1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/linda/2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/linda/3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/tts_samples/linda/4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<a name="unconditional-music"></a>
-## Unconditional Music Synthesis
-
-Original
-<audio controls>
-  <source src="assets/vqgan/original/original_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/original/original_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/original/original_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/original/original_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-Reconstructed
-<audio controls>
-  <source src="assets/vqgan/reconstructed/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/reconstructed/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/reconstructed/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/reconstructed/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-Sampled
-<audio controls>
-  <source src="assets/vqgan/sampled/sampled_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/sampled/sampled_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/sampled/sampled_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/sampled/sampled_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/sampled/sampled_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/sampled/sampled_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/sampled/sampled_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/vqgan/sampled/sampled_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<a name="music-translation"></a>
-## Music Translation
-
-Example for source domain: Bach Solo Cello
+<a name="groups"></a>
+# Groups
 
 <table>
-<col width="50">
-<col width="50">
-<col width="50">
-<col width="50">
-<col width="50">
-<col width="50">
-<tr>
-<th/>
-<th/>
-<th colspan="2">Beethoven accompanied violin</th>
-<th colspan="2">Beethoven solo piano</th>
-</tr>
-<tr>
- <th/>
- <th>Original</th>
- <th>Mor et al. 2019</th>
- <th>Ours</th>
- <th>Mor et al. 2019</th>
- <th>Ours</th>
-</tr>
-
-<tr>
-<th> 1 </th>
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/original/0.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_accompanied_violin_decoder/0.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_accompanied_violin_decoder/0.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_solo_piano_decoder/0.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_solo_piano_decoder/0.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-</tr>
-
-<tr>
-<th> 2 </th>
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/original/1.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_accompanied_violin_decoder/1.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_accompanied_violin_decoder/1.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_solo_piano_decoder/1.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_solo_piano_decoder/1.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-</tr>
-
-<tr>
-<th> 3 </th>
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/original/2.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_accompanied_violin_decoder/2.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_accompanied_violin_decoder/2.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_solo_piano_decoder/2.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_solo_piano_decoder/2.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-</tr>
-
-<tr>
-<th> 4 </th>
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/original/3.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_accompanied_violin_decoder/3.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_accompanied_violin_decoder/3.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_solo_piano_decoder/3.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_solo_piano_decoder/3.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-</tr>
-
-<tr>
-<th> 5 </th>
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/original/4.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_accompanied_violin_decoder/4.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_accompanied_violin_decoder/4.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_solo_piano_decoder/4.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_solo_piano_decoder/4.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-</tr>
-
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td></td>     
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_13/bc_22.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_13/ac_22.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
 </table>
 
-<a name="samples-along-training"></a>
-## Samples along Training
-
-50 epochs - 1.35 hours
-<audio controls>
-  <source src="assets/timeline/generated_4_50.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-100 epochs - 2.71 hours
-<audio controls>
-  <source src="assets/timeline/generated_4_100.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-200 epochs - 5.42 hours
-<audio controls>
-  <source src="assets/timeline/generated_4_200.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-400 epochs - 10.84 hours
-<audio controls>
-  <source src="assets/timeline/generated_4_400.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-800 epochs - 21.68 hours
-<audio controls>
-  <source src="assets/timeline/generated_4_800.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-1600 epochs - 43.36 hours
-<audio controls>
-  <source src="assets/timeline/generated_4_1600.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-3200 epochs - 86.72 hours
-<audio controls>
-  <source src="assets/timeline/generated_4_3200.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-
-<a name="ablation"></a>
-## Ablation
-
-original
-<audio controls>
-  <source src="assets/ablation/original/original_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/original/original_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/original/original_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/original/original_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/original/original_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/original/original_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/original/original_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/original/original_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-Baseline
-<audio controls>
-  <source src="assets/ablation/baseline/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/baseline/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/baseline/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/baseline/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/baseline/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/baseline/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/baseline/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/baseline/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-l1_observed_no_feat_match
-<audio controls>
-  <source src="assets/ablation/l1_observed_no_feat_match/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_no_feat_match/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/l1_observed_no_feat_match/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_no_feat_match/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_no_feat_match/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_no_feat_match/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_no_feat_match/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_no_feat_match/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-
-l1_observed_space
-<audio controls>
-  <source src="assets/ablation/l1_observed_space/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_space/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/l1_observed_space/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_space/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_space/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_space/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_space/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/l1_observed_space/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-no_dilations
-<audio controls>
-  <source src="assets/ablation/no_dilations/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_dilations/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/no_dilations/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_dilations/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_dilations/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_dilations/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_dilations/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_dilations/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-no_group_disc
-<audio controls>
-  <source src="assets/ablation/no_group_disc/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_group_disc/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/no_group_disc/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_group_disc/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_group_disc/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_group_disc/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_group_disc/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_group_disc/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-no_multiscale_disc
-<audio controls>
-  <source src="assets/ablation/no_multiscale_disc/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_multiscale_disc/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/no_multiscale_disc/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_multiscale_disc/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_multiscale_disc/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_multiscale_disc/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_multiscale_disc/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_multiscale_disc/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-no_patch_gan
-<audio controls>
-  <source src="assets/ablation/no_patch_gan/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_patch_gan/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/no_patch_gan/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_patch_gan/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_patch_gan/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_patch_gan/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_patch_gan/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_patch_gan/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-no_weight_norm
-<audio controls>
-  <source src="assets/ablation/no_weight_norm/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_weight_norm/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/no_weight_norm/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_weight_norm/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_weight_norm/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_weight_norm/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_weight_norm/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/no_weight_norm/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
-
-spectral_norm
-<audio controls>
-  <source src="assets/ablation/spectral_norm/generated_0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/spectral_norm/generated_1.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<!-- <audio controls>
-  <source src="assets/ablation/spectral_norm/generated_2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/spectral_norm/generated_3.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/spectral_norm/generated_4.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/spectral_norm/generated_5.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/spectral_norm/generated_6.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
-  <source src="assets/ablation/spectral_norm/generated_7.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio> -->
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample3</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_18.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_18.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_18.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_17/sample_18.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_17/sample_18.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_17/sample_18.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_17/sample_18.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_17/bc_18.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_17/ac_18.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample4</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_13.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_13.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_13.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_19/sample_13.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_19/sample_13.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_19/sample_13.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_19/sample_13.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_19/bc_13.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_19/ac_13.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample5</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_16.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_16.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_16.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_22/sample_16.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_22/sample_16.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_22/sample_16.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_22/sample_16.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_22/bc_16.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_22/ac_16.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample6</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_1.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_1.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_1.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_3/sample_1.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_3/sample_1.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_3/sample_1.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_3/sample_1.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_3/bc_1.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_3/ac_1.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample7</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_1/sample_1.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_1/sample_1.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_1/sample_1.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_1/sample_1.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_1/sample_1.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_1/sample_1.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_1/sample_1.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_1/bc_1.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_1/ac_1.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample8</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_13/sample_24.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_13/sample_24.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_13/sample_24.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_13/sample_24.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_13/sample_24.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_13/sample_24.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_13/sample_24.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_13/bc_24.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_13/ac_24.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample9</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_41.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_41.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_41.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_17/sample_41.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_17/sample_41.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_17/sample_41.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_17/sample_41.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_17/bc_41.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_17/ac_41.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample10</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_20.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_20.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_20.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_19/sample_20.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_19/sample_20.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_19/sample_20.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_19/sample_20.wav" controls></td>      
+      <<td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_19/bc_20.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_19/ac_20.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample11</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_22.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_22.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_22.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_22/sample_22.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_22/sample_22.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_22/sample_22.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_22/sample_22.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_22/bc_22.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_22/ac_22.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample12</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_12.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_12.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_12.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_3/sample_12.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_3/sample_12.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_3/sample_12.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_3/sample_12.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_3/bc_12.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_3/ac_12.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample13</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_1/sample_15.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_1/sample_15.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_1/sample_15.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_1/sample_15.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_1/sample_15.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_1/sample_15.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_1/sample_15.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_1/bc_15.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_1/ac_15.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample14</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_13/sample_27.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_13/sample_27.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_13/sample_27.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_13/sample_27.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_13/sample_27.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_13/sample_27.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_13/sample_27.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_13/bc_27.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_13/ac_27.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample15</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_5.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_5.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_5.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_17/sample_5.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_17/sample_5.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_17/sample_5.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_17/sample_5.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_17/bc_5.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_17/ac_5.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample16</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_21.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_21.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_21.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_19/sample_21.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_19/sample_21.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_19/sample_21.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_19/sample_21.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_19/bc_21.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_19/ac_21.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample17</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_3.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_3.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_3.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_22/sample_3.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_22/sample_3.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_22/sample_3.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_22/sample_3.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_22/bc_3.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_22/ac_3.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample18</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_22.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_22.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_22.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_3/sample_22.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_3/sample_22.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_3/sample_22.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_3/sample_22.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_3/bc_22.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_3/ac_22.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample19</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_1/sample_22.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_1/sample_22.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_1/sample_22.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_1/sample_22.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_1/sample_22.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_1/sample_22.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_1/sample_22.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_1/bc_22.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_1/ac_22.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample20</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_13/sample_35.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_13/sample_35.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_13/sample_35.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_13/sample_35.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_13/sample_35.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_13/sample_35.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_13/sample_35.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_13/bc_35.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_13/ac_35.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample21</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_51.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_51.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_51.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_17/sample_51.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_17/sample_51.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_17/sample_51.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_17/sample_51.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_17/bc_51.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_17/ac_51.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample22</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_24.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_24.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_24.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_19/sample_24.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_19/sample_24.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_19/sample_24.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_19/sample_24.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_19/bc_24.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_19/ac_24.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample23</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_31.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_31.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_31.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_22/sample_31.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_22/sample_31.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_22/sample_31.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_22/sample_31.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_22/bc_31.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_22/ac_31.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample24</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_26.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_26.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_26.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_3/sample_26.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_3/sample_26.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_3/sample_26.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_3/sample_26.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_3/bc_26.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_3/ac_26.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample25</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_1/sample_23.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_1/sample_23.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_1/sample_23.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_1/sample_23.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_1/sample_23.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_1/sample_23.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_1/sample_23.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_1/bc_23.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_1/ac_23.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample26</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_13/sample_36.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_13/sample_36.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_13/sample_36.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_13/sample_36.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_13/sample_36.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_13/sample_36.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_13/sample_36.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_13/bc_36.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_13/ac_36.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample27</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_53.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_53.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_53.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_17/sample_53.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_17/sample_53.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_17/sample_53.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_17/sample_53.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_17/bc_53.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_17/ac_53.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample28</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_19/sample_28.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_19/sample_28.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_19/sample_28.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_19/sample_28.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_19/sample_28.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_19/sample_28.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_19/sample_28.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_19/bc_28.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_19/ac_28.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample29</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_22/sample_32.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_22/sample_32.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_22/sample_32.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_22/sample_32.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_22/sample_32.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_22/sample_32.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_22/sample_32.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_22/bc_32.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_22/ac_32.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+    <tr>
+      <td>Sample30</td>
+      <td> DCCRN-AF <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_3/sample_27.wav" controls></td>
+      <td> DCCRN-BC <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_3/sample_27.wav" controls></td>
+      <td> S2 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_3/sample_27.wav" controls></td>
+      <td> DPT-EGNet <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_3/sample_27.wav" controls></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> Proposed <audio src="https://github.com/changtaoli/samples/raw/main/ours/speaker_3/sample_27.wav" controls></td>
+      <td> S1 <audio src="https://github.com/changtaoli/samples/raw/main/unet_stft/speaker_3/sample_27.wav" controls></td>
+      <td> WaveNet <audio src="https://github.com/changtaoli/samples/raw/main/wavenet_-10/speaker_3/sample_27.wav" controls></td>      
+      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_3/bc_27.wav" controls></td>    
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_3/ac_27.wav" controls></td>
+      <td></td>
+    </tr>
+  </tbody>
+  <colgroup>
+  </colgroup>
+</table>
