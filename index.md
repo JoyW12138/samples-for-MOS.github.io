@@ -1,4 +1,4 @@
----
+![image](https://github.com/JoyW12138/samples-for-MOS.github.io/assets/25631125/4cfe9cf8-7984-404a-a23c-0b3864385089)---
 layout: default
 title: {{ site.name }}
 ---
@@ -7,21 +7,21 @@ title: {{ site.name }}
 
 # Table of contents
 
-* [Abstract](#abstract)
+* [打分规则](#rules)
 <!-- * [Model Description](#model) -->
-* [Results](#results)
-  * [Spectrogram Inversion on Unseen speakers](#spectrogram-inversion)
-  * [TTS examples](#tts-examples)
-  * [Unconditional Music Synthesis](#unconditional-music)
-  * [Music Translation](#music-translation)
-  * [Samples along Training](#samples-along-training)
-  * [Ablation](#ablation)
+* [Groups](#groups)
 
 ---
 
-<a name="abstract"></a>
-# Abstract
-Previous works have found that generating coherent raw audio waveforms with GANs is challenging. In this paper, we show that it is possible to train GANs reliably to generate high quality coherent waveforms by introducing a set of architectural changes and simple training techniques. Subjective evaluation metric (Mean Opinion Score, or MOS) shows the effectiveness of the proposed approach for high quality mel-spectrogram inversion. To establish the generality of the proposed techniques, we show qualitative results of our model in speech synthesis, music domain translation and unconditional music synthesis. We evaluate the various components of the model through ablation studies and suggest a set of guidelines to design general purpose discriminators and generators for conditional sequence synthesis tasks. Our model is non-autoregressive, fully convolutional, with significantly fewer parameters than competing models and generalizes to unseen speakers for mel-spectrogram inversion. Our pytorch implementation runs at more than 100x faster than realtime on GTX 1080Ti GPU and more than 2x faster than real-time on CPU, without any hardware specific optimization tricks. Blog post with samples and accompanying code coming soon.
+<a name="rules"></a>
+# 打分规则
+1分	语音极其不清晰，无法辨认或听不懂
+2分	语音很不清晰，存在严重的不自然或杂音
+3分	语音不太清晰，存在明显的不自然或杂音
+4分	语音基本清晰，略有不自然或轻微杂音
+5分	语音清晰，自然流畅，无明显杂音和失真
+![image](https://github.com/JoyW12138/samples-for-MOS.github.io/assets/25631125/739d9f4e-245e-4558-b66d-16db39e2aac9)
+
 
 <!-- <a name="model"></a>
 # Model Description -->
