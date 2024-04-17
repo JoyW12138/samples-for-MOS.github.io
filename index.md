@@ -44,11 +44,11 @@ title: {{ site.name }}
     </tr>
     <tr>
       <td>Group2</td>
-      <td> audio1 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group2/1_generated_MelGAN.wav" controls></td>
-      <td> audio2 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group2/1_generated_Noskip-32.wav" controls></td>
-      <td> audio3 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group2/1_generated_Skipv2-32-residual-16842-2s.wav" controls></td>
-      <td> audio4 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group2/1_generated_Skipv2-32.wav" controls></td>
-      <td> audio5 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group2/1_original.wav" controls></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group2/1_generated_MelGAN.wav" controls></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group2/1_generated_Noskip-32.wav" controls></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group2/1_generated_Skipv2-32-residual-16842-2s.wav" controls></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group2/1_generated_Skipv2-32.wav" controls></td>
+      <td> audio5 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group2/1_original.wav" controls></td>
     </tr>
   </tbody>
   <colgroup>
@@ -60,11 +60,11 @@ title: {{ site.name }}
     </tr>
     <tr>
       <td>Group3</td>
-      <td> audio1 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group3/2_generated_MelGAN.wav" controls></td>
-      <td> audio2 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group3/2_generated_Noskip-32.wav" controls></td>
-      <td> audio3 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group3/2_generated_Skipv2-32-residual-16842-2s.wav" controls></td>
-      <td> audio4 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group3/2_generated_Skipv2-32.wav" controls></td>
-      <td> audio5 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group3/2_original.wav" controls></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group3/2_generated_MelGAN.wav" controls></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group3/2_generated_Noskip-32.wav" controls></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group3/2_generated_Skipv2-32-residual-16842-2s.wav" controls></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group3/2_generated_Skipv2-32.wav" controls></td>
+      <td> audio5 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group3/2_original.wav" controls></td>
     </tr>
   </tbody>
   <colgroup>
