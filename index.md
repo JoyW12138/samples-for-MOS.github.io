@@ -48,11 +48,11 @@ title: {{ site.name }}
     </tr>
     <tr>
       <td>Groups2</td>
-      <td> audio1 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_-10/speaker_17/sample_18.wav" controls></td>
-      <td> audio2 <audio src="https://github.com/changtaoli/samples/raw/main/dccrn_stft/speaker_17/sample_18.wav" controls></td>
-      <td> audio3 <audio src="https://github.com/changtaoli/samples/raw/main/direct/speaker_17/sample_18.wav" controls></td>
-      <td> audio4 <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_17/sample_18.wav" controls></td>
-      <td> audio5 <audio src="https://github.com/changtaoli/samples/raw/main/dpt/speaker_17/sample_18.wav" controls></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group1/1_generated_MelGAN.wav" controls></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group1/1_generated_Noskip-32.wav" controls></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group1/1_generated_Skipv2-32-residual-16842-2s.wav" controls></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group1/1_generated_Skipv2-32.wav" controls></td>
+      <td> audio5 <audio src="https://github.com/JoyW12138/samples-for-MOS/blob/master/group1/1_original.wav" controls></td>
     </tr>
   </tbody>
   <colgroup>
