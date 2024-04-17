@@ -26,26 +26,6 @@ title: {{ site.name }}
 
 <a name="groups"></a>
 # Groups
-
-<table>
-  <tbody>
-    <tr>
-    </tr>
-    <tr>
-      <td></td>     
-      <td> BC <audio src="https://github.com/changtaoli/samples/raw/main/bc/speaker_13/bc_22.wav" controls></td>    
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td> AC <audio src="https://github.com/changtaoli/samples/raw/main/ac/speaker_13/ac_22.wav" controls></td>
-      <td></td>
-    </tr>
-  </tbody>
-  <colgroup>
-  </colgroup>
-</table>
-
 <table>
   <tbody>
     <tr>
