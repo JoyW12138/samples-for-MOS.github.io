@@ -41,7 +41,6 @@ title: {{ site.name }}
   </tbody>
   <colgroup>
   </colgroup>
-</table>
 
 <table>
   <tbody>
