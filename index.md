@@ -26,6 +26,7 @@ title: {{ site.name }}
 
 <a name="groups"></a>
 # Groups
+## Group1
 <table>
   <tbody>
     <tr>
@@ -41,6 +42,7 @@ title: {{ site.name }}
   </tbody>
   <colgroup>
   </colgroup>
+</table>
 
 <table>
   <tbody>
