@@ -26,6 +26,10 @@ title: {{ site.name }}
   <audio controls>
   <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/generated_2.wav" type="audio/wav">
   </audio>
+* 3分示例
+  <audio controls>
+  <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/generated_2_3.wav" type="audio/wav">
+  </audio>
 * 5分示例
   <audio controls>
   <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/original_2.wav" type="audio/wav">
