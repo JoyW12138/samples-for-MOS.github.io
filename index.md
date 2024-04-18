@@ -35,6 +35,9 @@ title: {{ site.name }}
   <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/original_2.wav" type="audio/wav">
   </audio>
 
+# 用时提示
+* 本测试全部听完用时约15 mins，所有语音需听完再进行评分
+
 <a name="groups"></a>
 # Group
 <table>
