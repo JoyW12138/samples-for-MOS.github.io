@@ -8,6 +8,7 @@ title: {{ site.name }}
 
 * [打分规则](#rules)
 * [打分示例](#examples)
+* [用时提示](#tips)
 * [Group](#groups)
 
 ---
@@ -35,6 +36,7 @@ title: {{ site.name }}
   <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/original_2.wav" type="audio/wav">
   </audio>
 
+<a name="tips"></a>
 # 用时提示
 * 本测试全部听完用时约15 mins，所有语音需听完再进行评分
 
