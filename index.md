@@ -7,6 +7,7 @@ title: {{ site.name }}
 # Table of contents
 
 * [打分规则](#rules)
+* [打分示例](#examples)
 * [Group](#groups)
 
 ---
@@ -19,6 +20,16 @@ title: {{ site.name }}
 * 4分	语音基本清晰，略有不自然或轻微杂音
 * 5分	语音清晰，自然流畅，无明显杂音和失真
 
+<a name="examples"></a>
+# 打分示例
+* 1分示例
+  <audio controls>
+  <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/generated_2.wav" type="audio/wav">
+  </audio>
+* 5分示例
+  <audio controls>
+  <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/original_2.wav" type="audio/wav">
+  </audio>
 
 <a name="groups"></a>
 # Group
