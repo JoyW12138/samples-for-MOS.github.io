@@ -38,7 +38,7 @@ title: {{ site.name }}
 
 <a name="tips"></a>
 # 用时提示
-* 本测试全部听完用时约15 mins，所有语音需听完再进行评分
+* 本测试全部听完用时约20 mins，所有语音需听完再进行评分
 
 <a name="groups"></a>
 # Group
