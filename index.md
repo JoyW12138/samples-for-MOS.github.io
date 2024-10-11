@@ -8,8 +8,11 @@ title: {{ site.name }}
 
 * [打分规则](#rules)
 * [打分示例](#examples)
-* [用时提示](#tips)
+* [注意事项](#attention)
 * [Tests](#tests)
+* * [Test1](#test1) - 预计用时约60 mins
+* * [Test2](#test2) - 预计用时约30 mins
+* * [Test3](#test3) - 预计用时约15 mins
 
 ---
 
@@ -36,12 +39,14 @@ title: {{ site.name }}
   <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/original_2.wav" type="audio/wav">
   </audio>
 
-<a name="tips"></a>
-# 用时提示
-* 本测试全部听完用时约20 mins，所有语音需听完再进行评分
+<a name="attention"></a>
+# 注意事项
+* 每条语音需完整听完再进行评分
 
 <a name="tests"></a>
-# Test1
+# 测试语音
+<a name="test1"></a>
+# Test1 - 约60 mins
 <table>
   <tbody>
     <tr>
@@ -1095,7 +1100,8 @@ title: {{ site.name }}
   </colgroup>
 </table>
 
-# Test2
+<a name="test2"></a>
+# Test2 - 约30 mins
 <table>
   <tbody>
     <tr>
@@ -1898,8 +1904,8 @@ title: {{ site.name }}
   </colgroup>
 </table>
 
-
-# Test3
+<a name="test3"></a>
+# Test3 - 约15 mins
 <table>
   <tbody>
     <tr>
@@ -2072,7 +2078,6 @@ title: {{ site.name }}
       <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/blob/master/Test3/Group10/2.wav" controls></td>
       <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/blob/master/Test3/Group10/3.wav" controls></td>
       <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/blob/master/Test3/Group10/4.wav" controls></td>
-
     </tr>
   </tbody>
   <colgroup>
