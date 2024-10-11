@@ -10,9 +10,9 @@ title: {{ site.name }}
 * [打分示例](#examples)
 * [注意事项](#attention)
 * [Tests](#tests)
-* * [Test1](#test1) - 预计用时约60 mins
-* * [Test2](#test2) - 预计用时约30 mins
-* * [Test3](#test3) - 预计用时约15 mins
+  * [Test1](#test1) - 预计用时约60 mins
+  * [Test2](#test2) - 预计用时约30 mins
+  * [Test3](#test3) - 预计用时约15 mins
 
 ---
 
