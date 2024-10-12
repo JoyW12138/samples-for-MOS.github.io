@@ -64,7 +64,7 @@ title: “Audio-For-MOS”
     </tr>
   </tbody>
   <colgroup>
-</colgroup>
+  </colgroup>
 
 <table>
   <tbody>
@@ -85,7 +85,7 @@ title: “Audio-For-MOS”
     </tr>
   </tbody>
   <colgroup>
-</colgroup>
+  </colgroup>
 
 
 <a name="test2"></a>
