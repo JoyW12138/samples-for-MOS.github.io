@@ -10,10 +10,10 @@ title: “Audio-For-MOS”
 * [打分规则](#rules)
 * [打分示例](#examples)
 * [注意事项](#attention)
-* [Tests](#tests)
-  * [Test1](#test1) - 预计用时约60 mins
-  * [Test2](#test2) - 预计用时约30 mins
-  * [Test3](#test3) - 预计用时约15 mins
+
+* [Test1](#test1) - 预计用时约60 mins
+* [Test2](#test2) - 预计用时约30 mins
+* [Test3](#test3) - 预计用时约15 mins
 
 
 <a name="rules"></a>
@@ -43,10 +43,13 @@ title: “Audio-For-MOS”
 # 注意事项
 * 每条语音需完整听完再进行评分
 
-<a name="tests"></a>
-# 测试语音
 
-
+<a name="test1"></a>
+# Test1 - 约60 mins
+<a name="test2"></a>
+# Test2 - 约30 mins
+<a name="test3"></a>
+# Test3 - 约15 mins
 # Group
 <table>
 <tbody>
