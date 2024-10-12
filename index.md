@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ Audio-For-MOS }}
+title: “Audio-For-MOS”
 ---
 
 
@@ -50,8 +50,6 @@ title: {{ Audio-For-MOS }}
 <table>
   <tbody>
     <tr>
-    </tr>
-    <tr>
       <td>Group0</td>
       <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/blob/master/Test1/Group0/0.wav" controls></td>
       <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/blob/master/Test1/Group0/1.wav" controls></td>
@@ -65,8 +63,6 @@ title: {{ Audio-For-MOS }}
       <td> audio9 <audio src="https://github.com/JoyW12138/Audio-For-MOS/blob/master/Test1/Group0/9.wav" controls></td>
     </tr>
   </tbody>
-  <colgroup>
-  </colgroup>
 
 
 <table>
