@@ -10,7 +10,6 @@ title: “Audio-For-MOS”
 * [打分规则](#rules)
 * [打分示例](#examples)
 * [注意事项](#attention)
-
 * [Test1](#test1) - 预计用时约60 mins
 * [Test2](#test2) - 预计用时约30 mins
 * [Test3](#test3) - 预计用时约15 mins
@@ -46,6 +45,23 @@ title: “Audio-For-MOS”
 
 <a name="test1"></a>
 # Test1 - 约60 mins
+<table>
+  <tbody>
+    <tr>
+      <td>Group0</td>
+      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/0.wav" controls></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/1.wav" controls></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/2.wav" controls></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/3.wav" controls></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/4.wav" controls></td>
+      <td> audio5 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/5.wav" controls></td>
+      <td> audio6 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/6.wav" controls></td>
+      <td> audio7 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/7.wav" controls></td>
+      <td> audio8 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/8.wav" controls></td>
+      <td> audio9 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/9.wav" controls></td>
+    </tr>
+  </tbody> 
+</table>
 <a name="test2"></a>
 # Test2 - 约30 mins
 <a name="test3"></a>
