@@ -13,7 +13,6 @@ title: “Audio-For-MOS”
   * [Test2](#test2) - 预计用时约30 mins
   * [Test3](#test3) - 预计用时约15 mins
 
----
 
 <a name="rules"></a>
 # 打分规则
