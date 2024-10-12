@@ -1,5 +1,6 @@
+---
 layout: default
-title: {{ site.name }}
+title: “Audio-For-MOS”
 ---
 
 ---
@@ -8,10 +9,12 @@ title: {{ site.name }}
 
 * [打分规则](#rules)
 * [打分示例](#examples)
-* [用时提示](#tips)
-* [Group](#groups)
+* [注意事项](#attention)
+* [Tests](#tests)
+  * [Test1](#test1) - 预计用时约60 mins
+  * [Test2](#test2) - 预计用时约30 mins
+  * [Test3](#test3) - 预计用时约15 mins
 
----
 
 <a name="rules"></a>
 # 打分规则
@@ -24,24 +27,26 @@ title: {{ site.name }}
 <a name="examples"></a>
 # 打分示例
 * 1分示例
-<audio controls>
-<source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/generated_2.wav" type="audio/wav">
-</audio>
+  <audio controls>
+  <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/generated_2.wav" type="audio/wav">
+  </audio>
 * 3分示例
-<audio controls>
-<source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/generated_2_3.wav" type="audio/wav">
-</audio>
+  <audio controls>
+  <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/generated_2_3.wav" type="audio/wav">
+  </audio>
 * 5分示例
-<audio controls>
-<source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/original_2.wav" type="audio/wav">
-</audio>
+  <audio controls>
+  <source src="https://github.com/JoyW12138/samples-for-MOS/raw/main/examples/original_2.wav" type="audio/wav">
+  </audio>
 
-<a name="tips"></a>
-# 用时提示
-* 本测试全部听完用时约15 mins，所有语音需听完再进行评分
-* 本测试全部听完用时约20 mins，所有语音需听完再进行评分
+<a name="attention"></a>
+# 注意事项
+* 每条语音需完整听完再进行评分
 
-<a name="groups"></a>
+<a name="tests"></a>
+# 测试语音
+
+
 # Group
 <table>
 <tbody>
