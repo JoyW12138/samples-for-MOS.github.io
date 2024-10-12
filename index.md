@@ -42,7 +42,6 @@ title: “Audio-For-MOS”
 # 注意事项
 * 每条语音需完整听完再进行评分
 
-
 <a name="test1"></a>
 # Test1 - 约60 mins
 <table>
@@ -86,6 +85,7 @@ title: “Audio-For-MOS”
   </tbody>
   <colgroup>
   </colgroup>
+</table>
 
 
 <a name="test2"></a>
