@@ -1,7 +1,8 @@
 ---
-title: "Audio For MOS"
-date: 2024-10-11
+layout: default
+title: {{ Audio-For-MOS }}
 ---
+
 
 # Table of contents
 
