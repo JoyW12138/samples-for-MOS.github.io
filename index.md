@@ -61,6 +61,7 @@ title: “Audio-For-MOS”
       <td> audio7 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/7.wav" controls></td>
       <td> audio8 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/8.wav" controls></td>
       <td> audio9 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/9.wav" controls></td>
+      <td></td>
     </tr>
   </tbody>
 
