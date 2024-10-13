@@ -63,6 +63,7 @@ title: “Audio-For-MOS”
       <td> audio9 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group0/9.wav" controls></audio></td>
     </tr>
   </tbody>
+</table>
 
 <table>
   <tbody>
