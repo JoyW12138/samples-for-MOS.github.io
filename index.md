@@ -41,6 +41,8 @@ title: “Audio-For-MOS”
 <a name="attention"></a>
 # 注意事项
 * 每条语音需完整听完再进行评分
+* 由于音频数据较多，所以加载较慢，请耐心等待
+* 本网站基于Github搭建，如长时间加载不出来，可能需要一些魔法手段
 
 # Test
 <a name="test1"></a>
