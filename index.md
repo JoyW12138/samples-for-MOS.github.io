@@ -70,7 +70,7 @@ title: “Audio-For-MOS”
     </tr>
     <tr>
       <td>Group1</td>
-      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/0.wav" controls></td>
+      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/0.wav" controls></audio></td>
       <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/1.wav" controls></td>
       <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/2.wav" controls></td>
       <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/3.wav" controls></td>
@@ -82,7 +82,6 @@ title: “Audio-For-MOS”
       <td> audio9 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/9.wav" controls></td>
     </tr>
   </tbody>
-
 
 <a name="test2"></a>
 ## Test2 - 约30 mins
