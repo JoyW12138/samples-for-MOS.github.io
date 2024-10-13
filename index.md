@@ -71,18 +71,19 @@ title: “Audio-For-MOS”
     </tr>
     <tr>
       <td>Group1</td>
-      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/0.wav" controls></td>
-      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/1.wav" controls></td>
-      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/2.wav" controls></td>
-      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/3.wav" controls></td>
-      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/4.wav" controls></td>
-      <td> audio5 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/5.wav" controls></td>
-      <td> audio6 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/6.wav" controls></td>
-      <td> audio7 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/7.wav" controls></td>
-      <td> audio8 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/8.wav" controls></td>
-      <td> audio9 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/9.wav" controls></td>
+      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/0.wav" controls></audio></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/1.wav" controls></audio></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/2.wav" controls></audio></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/3.wav" controls></audio></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/4.wav" controls></audio></td>
+      <td> audio5 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/5.wav" controls></audio></td>
+      <td> audio6 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/6.wav" controls></audio></td>
+      <td> audio7 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/7.wav" controls></audio></td>
+      <td> audio8 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/8.wav" controls></audio></td>
+      <td> audio9 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test1/Group1/9.wav" controls></audio></td>
     </tr>
   </tbody>
+</table>
 
 <a name="test2"></a>
 ## Test2 - 约30 mins
@@ -92,13 +93,14 @@ title: “Audio-For-MOS”
     </tr>
     <tr>
       <td>Group0</td>
-      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/0.wav" controls></td>
-      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/1.wav" controls></td>
-      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/2.wav" controls></td>
-      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/3.wav" controls></td>
-      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/4.wav" controls></td>
+      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/0.wav" controls></audio></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/1.wav" controls></audio></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/2.wav" controls></audio></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/3.wav" controls></audio></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/4.wav" controls></audio></td>
     </tr>
-  </tbody> 
+  </tbody>
+</table>
 
 <table>
   <tbody>
@@ -106,13 +108,14 @@ title: “Audio-For-MOS”
     </tr>
     <tr>
       <td>Group1</td>
-      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/0.wav" controls></td>
-      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/1.wav" controls></td>
-      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/2.wav" controls></td>
-      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/3.wav" controls></td>
-      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/4.wav" controls></td>
+      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/0.wav" controls></audio></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/1.wav" controls></audio></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/2.wav" controls></audio></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/3.wav" controls></audio></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/4.wav" controls></audio></td>
     </tr>
-  </tbody> 
+  </tbody>
+</table>
 
 <a name="test3"></a>
 ## Test3 - 约15 mins
@@ -122,13 +125,14 @@ title: “Audio-For-MOS”
     </tr>
     <tr>
       <td>Group0</td>
-      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/0.flac" controls></td>
-      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/1.flac" controls></td>
-      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/2.flac" controls></td>
-      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/3.flac" controls></td>
-      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/4.flac" controls></td>
+      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/0.flac" controls></audio></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/1.flac" controls></audio></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/2.flac" controls></audio></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/3.flac" controls></audio></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/4.flac" controls></audio></td>
     </tr>
-  </tbody> 
+  </tbody>
+</table>
 
 
 <table>
@@ -137,11 +141,11 @@ title: “Audio-For-MOS”
     </tr>
     <tr>
       <td>Group1</td>
-      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/0.flac" controls></td>
-      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/1.flac" controls></td>
-      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/2.flac" controls></td>
-      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/3.flac" controls></td>
-      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/4.flac" controls></td>
+      <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/0.flac" controls></audio></td>
+      <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/1.flac" controls></audio></td>
+      <td> audio2 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/2.flac" controls></audio></td>
+      <td> audio3 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/3.flac" controls></audio></td>
+      <td> audio4 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/4.flac" controls></audio></td>
     </tr>
   </tbody> 
 </table>
