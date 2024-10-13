@@ -94,20 +94,4 @@ title: “Audio-For-MOS”
 <a name="test3"></a>
 # Test3 - 约15 mins
 
-# Group
-<table>
-<tbody>
-<tr>
-</tr>
-<tr>
- <td>Group1</td>
- <td> audio1 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group1/0_generated_MelGAN.wav" controls></td>
- <td> audio2 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group1/0_generated_Noskip-32.wav" controls></td>
- <td> audio3 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group1/0_generated_Skipv2-32-residual-16842-2s.wav" controls></td>
- <td> audio4 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group1/0_generated_Skipv2-32.wav" controls></td>
- <td> audio5 <audio src="https://github.com/JoyW12138/samples-for-MOS/raw/main/samples/group1/0_original.wav" controls></td>
-</tr>
-</tbody>
-<colgroup>
-</colgroup>
 
