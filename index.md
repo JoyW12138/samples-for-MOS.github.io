@@ -956,8 +956,6 @@ title: “Audio-For-MOS”
 <table>
   <tbody>
     <tr>
-    </tr>
-    <tr>
       <td>Group0</td>
       <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/0.wav" controls></audio></td>
       <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group0/1.wav" controls></audio></td>
@@ -970,8 +968,6 @@ title: “Audio-For-MOS”
 
 <table>
   <tbody>
-    <tr>
-    </tr>
     <tr>
       <td>Group1</td>
       <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test2/Group1/0.wav" controls></audio></td>
@@ -1612,8 +1608,6 @@ title: “Audio-For-MOS”
 <table>
   <tbody>
     <tr>
-    </tr>
-    <tr>
       <td>Group0</td>
       <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/0.flac" controls></audio></td>
       <td> audio1 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group0/1.flac" controls></audio></td>
@@ -1627,8 +1621,6 @@ title: “Audio-For-MOS”
 
 <table>
   <tbody>
-    <tr>
-    </tr>
     <tr>
       <td>Group1</td>
       <td> audio0 <audio src="https://github.com/JoyW12138/Audio-For-MOS/raw/main/Test3/Group1/0.flac" controls></audio></td>
